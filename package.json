@@ -23,13 +23,13 @@
     "test": "mocha"
   },
   "dependencies": {
-    "bluebird": "^3.7.2",
-    "babel-core": "^6.26.3",
-    "babel-preset-react": "^6.24.1"
+    "bluebird": "^3.7.2"
   },
   "devDependencies": {
     "arc-templates": "^0.5.3",
     "atpl": ">=0.7.6",
+    "@babel/core": "^7.12.7",
+    "@babel/preset-react": "^7.12.7",
     "bracket-template": "^1.1.5",
     "coffee-script": "^1.12.7",
     "dot": "^1.1.3",
