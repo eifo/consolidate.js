@@ -25,7 +25,7 @@
   "dependencies": {
     "bluebird": "^3.7.2",
     "babel-core": "^6.26.3",
-    "babel-preset-react": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
   },
   "devDependencies": {
     "arc-templates": "^0.5.3",
